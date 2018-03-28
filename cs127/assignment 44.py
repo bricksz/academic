@@ -61,11 +61,6 @@ def computeDist(x1, y1, x2, y2):
 
     return (d)
 
-
-######################################################################
-### DO NOT CHANGE ANYTHING BELOW HERE                              ###
-######################################################################
-
 def dotAllPoints(cMap, df, latCol, lonCol):
     """
     Mark all points in the latCol, lonCol with dots (little circle markers)
