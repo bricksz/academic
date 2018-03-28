@@ -36,15 +36,6 @@ def monthString(monthNum):
     else:
         return 'December'
 
-    ###################################
-    ### FILL IN YOUR CODE HERE      ###
-    ### Other than your name above, ###
-    ### this is the only section    ###
-    ### you change in this program. ###
-    ###################################
-
-
-
 def main():
     n = int(input('Enter the number of the month: '))
     mString = monthString(n)
