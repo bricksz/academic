@@ -1,0 +1,5 @@
+#terry huang
+#4/13/2018
+#assignment 52
+
+ls -l | grep ".py" | wc -l
