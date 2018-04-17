@@ -1,0 +1,9 @@
+#terry huang
+#4/13/2018
+#assignment 48
+
+mkdir projectFiles
+cd projectFiles
+mkdir source
+mkdir data
+mkdir results
